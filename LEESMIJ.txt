@@ -1,0 +1,27 @@
+LITTLE PAGES STUDIO — vernieuwde eerste versie
+
+WAT IS ANDERS?
+- Nieuwe Canva-achtige creatieve studio: tools aan de linkerkant, werkcanvas in het midden, eigenschappen/lagen rechts.
+- Templates én vrij ontwerpen in dezelfde werkwijze.
+- Digitaal omslaand boek met spread-navigatie en een korte omslaganimatie.
+- Pagina-miniaturen onderaan om snel naar een pagina te springen.
+- Elementen op het canvas verslepen met muis of touch; formaat aanpassen met het hoekhandvat.
+- Eigenschappenpaneel met inhoud, kleuren, tekstgrootte, breedte, rotatie en laagvolgorde.
+- Eigen templates bewaren.
+- Meerdere boeken, foto's uploaden, undo/redo, lokale autosave en JSON-back-up.
+- Responsieve lay-out voor laptop, iPad/tablet en telefoon.
+
+STARTEN
+1. Pak little-pages-creative-studio.zip uit.
+2. Open de map little-pages-creative-studio.
+3. Dubbelklik op index.html.
+
+IPAD
+- Voor een snelle test kun je index.html op je laptop openen.
+- Om de app echt handig op iPad te gebruiken, is het beter om deze map op een website te publiceren, bijvoorbeeld via GitHub Pages of Netlify, en de website in Safari te openen.
+- In Safari kun je daarna Delen > Zet op beginscherm gebruiken wanneer die optie beschikbaar is.
+
+OPSLAAN / PRIVACY
+Deze versie slaat gegevens op in de browser op het huidige apparaat. Er is nog geen online account of automatische synchronisatie tussen laptop en iPad. Gebruik Delen / back-up of Exporteren om een .json-back-up te maken en die op het andere apparaat te importeren. Foto's worden opgenomen in de lokale gegevens; zeer grote foto's kunnen browseropslag vullen.
+
+Dit is een werkende eerste versie van de vernieuwde interface, geen gehoste website. Voor echte synchronisatie en privéaccounts is een volgende stap met een backend zoals Supabase of Firebase nodig.
